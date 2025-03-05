@@ -1,0 +1,76 @@
+{
+	"datatable": {
+		"columns": [
+			{
+				"options": [],
+				"key": true,
+				"name": "uuid",
+				"dbField": "uuid"
+			},
+			{
+				"options": {
+					"label": "username"
+				},
+				"key": false,
+				"name": "username",
+				"dbField": "username"
+			},
+			{
+				"options": {
+					"label": "roles"
+				},
+				"key": false,
+				"name": "roles",
+				"dbField": "roles"
+			}
+		],
+		"records": [
+			{
+				"values": {
+					"uuid": "363c5d10-7bae-4058-9a19-a9d866666ebd",
+					"username": "TempUsername1",
+					"roles": []
+				}
+			},
+			{
+				"values": {
+					"uuid": "6240ece9-43ac-4521-b338-4e9826a34eef",
+					"username": "TempUsername2",
+					"roles": []
+				}
+			},
+			{
+				"values": {
+					"uuid": "ff2f21f8-0223-4e95-9f52-ebbcf9da81d5",
+					"username": "TempUsername3",
+					"roles": []
+				}
+			},
+			{
+				"values": {
+					"uuid": "a964d826-90ff-486f-a74d-123f704605d0",
+					"username": "TempUsername4",
+					"roles": []
+				}
+			},
+			{
+				"values": {
+					"uuid": "0ae2fc81-c8a5-4b8b-9e37-be36686aa0b4",
+					"username": "NewTestUssr",
+					"roles": []
+				}
+			},
+			{
+				"values": {
+					"uuid": "58a728d0-5e6c-4fb9-b364-264ce2728be9",
+					"username": "thisNewUser",
+					"roles": []
+				}
+			}
+		],
+		"actions": [
+			"edit"
+		],
+		"bulkActions": []
+	}
+}
